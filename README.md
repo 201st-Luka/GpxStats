@@ -1,0 +1,1 @@
+This is a Flash application to create a website to get detailed statistics for GPX-files.
